@@ -5,4 +5,4 @@ A simple Drum Kit website created to learn the addEventListener function of Java
 The website plays the sounds of different Drum Kits when key is pressed via keyboard or mouse.
 <br>
 
-Check it out at: 
+Check it out at: https://aryashubhanshu.github.io/Drum-Kit/
